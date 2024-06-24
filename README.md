@@ -7,11 +7,11 @@
 
 <b>My GitHub Stats</b>
 
-[![MOTSUDG's GitHub stats](https://github-readme-stats.vercel.app/api?username=gsdnMartin)
+[![MOTSUDG's GitHub stats](https://github-readme-stats.vercel.app/api?username=gsdnMartin)]
 
-[![MOTSUDG's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=gsdnMartin)]((https://github-readme-streak-stats.herokuapp.com/?user=gsdnMartin))
+[![MOTSUDG's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=gsdnMartin)]
 
-[![MOTSUDG's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=gsdnMartin)]((https://github-readme-stats.vercel.app/api/top-langs/?username=gsdnMartin))
+[![MOTSUDG's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=gsdnMartin)]
 
 <!---
 gsdnMartin/gsdnMartin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
